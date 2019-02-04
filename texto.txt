@@ -1,0 +1,3 @@
+O Texto que estiver dentro desse arquivo de texto será lido pelo windows.
+
+Criado por Anderson3
